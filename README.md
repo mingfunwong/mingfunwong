@@ -13,8 +13,8 @@ I am a Full Stack Engineer with particular interest in developing Web Applicatio
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-264DE4?style=flat-square&logo=css&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
   
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-68A063?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white" />
